@@ -12,7 +12,7 @@ https://www.coursera.org/specializations/computer-fundamentals
 **Installation**
 * Copy content of puzzle.py to codeskulptor.org
 * Use arrow keys to swap the blank (zero) tile to a random position
-* Press play button to solve the puzzle
+* Press solve button to solve the puzzle
 
 **Run tests**
 * Copy content of testsuite.py to codeskulptor.org
